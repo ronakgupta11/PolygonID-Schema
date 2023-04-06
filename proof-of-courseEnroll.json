@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://github.com/ronakgupta11/PolygonID-Schema/blob/main/proof-of-courseEnroll.jsonld",
-        "jsonSchema": "https://github.com/ronakgupta11/PolygonID-Schema/blob/main/proof-of-courseEnroll.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/ronakgupta11/PolygonID-Schema/main/proof-of-courseEnroll.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/ronakgupta11/PolygonID-Schema/main/proof-of-courseEnroll.json"
       }
     },
     "required": [
